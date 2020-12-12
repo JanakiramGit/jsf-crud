@@ -11,7 +11,7 @@ import javax.inject.Inject;
 import javax.inject.Named;
 
 import com.jk.jsfcrud.model.Customer;
-import com.jk.jsfcurd.service.CustomerManager;
+import com.jk.jsfcrud.service.CustomerManager;
 
 @Named
 @ViewScoped

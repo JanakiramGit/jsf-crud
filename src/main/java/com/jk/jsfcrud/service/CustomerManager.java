@@ -1,4 +1,4 @@
-package com.jk.jsfcurd.service;
+package com.jk.jsfcrud.service;
 
 import java.util.List;
 
